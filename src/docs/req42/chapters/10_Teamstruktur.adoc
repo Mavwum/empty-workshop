@@ -1,0 +1,40 @@
+:jbake-title: Teamstruktur
+:jbake-type: page_toc
+:jbake-status: published
+:jbake-menu: req42
+:jbake-order: 10
+:filename: /chapters/10_Teamstruktur.adoc
+ifndef::imagesdir[:imagesdir: ../../images]
+
+:toc:
+
+[[section-Teamstruktur]]
+== Teamstruktur
+
+[role="req42help"]
+****
+.Inhalt
+Bei kleinen Produktentwicklungen mit nur einem Entwicklungsteam kann dieser Abschnitt entfallen, da die Teammitglieder bereits im vorherigen Abschnitt aufgeführt sind.  Bei skalierten großen Produkten sollte hier das Organigramm Ihrer Teams stehen und eine Zuordnung zu den Themen (z.B. Epics, Features, ...), für die dieses Team zuständig ist.
+
+
+.Motivation
+Wenn Sie über mehrere Teams verfügen, ist es selbstverständlich, dass Sie einen Überblick darüber haben, wer in welchem (Sub-)Team arbeitet und wie diese Teams organisiert sind. 
+
+Der Fokus sollte darauf liegen, dass die (Teil-)Teams so organisiert sind, dass sie möglichst selbstständig Funktionen/Features oder Teilprodukte liefern können, ohne sich ständig mit allen anderen abstimmen zu müssen. 
+
+.Notationen/Tools
+Listen von Teams (jeweils mit zugewiesenen Personen und zugewiesenen Themen aus der Roadmap oder aus dem Product Backlog (z. B. Epics oder Features).
+
+****
+
+[cols="1,2,2" options="header"]
+|===
+| Team       | Team-Mitglied      | Themen
+| _<Team-1>_ | PO: _<Name>_       | _<Teilprodukt-A>_
+|            | _<Team-Member-1>_  |  
+|            |                    |      
+| _<Team-2>_ | PO: _<Name>_       | _<Teilprodukt-B>_ 
+|            | _<Team-Member-1>_  |  
+|            | _<Team-Member-2>_  |
+|           |                     |   
+|===

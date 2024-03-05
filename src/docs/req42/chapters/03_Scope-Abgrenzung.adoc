@@ -1,0 +1,48 @@
+:jbake-title: Scope-Abgrenzung
+:jbake-type: page_toc
+:jbake-status: published
+:jbake-menu: req42
+:jbake-order: 3
+:filename: /chapters/03_Scope-Abgrenzung.adoc
+ifndef::imagesdir[:imagesdir: ../../images]
+
+:toc:
+
+[[section-Scope-Abgrenzung]]
+== Scope-Abgrenzung
+
+[role="req42help"]
+****
+.Inhalt
+Ihr Produkt mit allen externen Schnittstellen zu (menschlichen und automatisierten) Nachbarn, bzw. Nachbarsystemen
+
+.Motivation
+Scope ist der Bereich, den Sie beeinflussen können. Die Umgebung des Produktes, zu dem es sicherlich viele Schnittstellen gibt stellt den Kontext dar. Der Kontext kann (normalerweise) nicht von Ihnen allein entschieden werden, kann aber oft verhandeln werden. 
+Um Klarheit zu gewinnen ist es wichtig beides möglichst zu beschreiben und vor allem die Grenze zwischen den beiden Bereichen zu definieren.
+req42 empfiehlt Ihnen mit dem Business-Scope zu beginnen und nicht zu früh den Product-Scope einzuschränken. 
+
+Die Entscheidung über die Produktgrenze sollte eine bewusste Entscheidung sein.
+Mehr über dieses unverzichtbare Thema lesen Sie im Blog-Beitrag „Scope ist nicht gleich Scope“. In unseren Kursen üben Sie die Scope-Abgrenzung anhand einer realistischen Fallstudie.
+
+.Notationen/Tools
+Zur Darstellung der Scope-Abgrenzung gibt es viele verschiedene Ausdrucksmittel, aber eine gute Scope-Abgrenzung macht die Schnittstellen zum Kontext explizit (z.B. in Form von Ein- und Ausgaben, von angebotenen und benötigten Services, ...)
+
+* Diverse Formen von Kontextdiagrammen 
+* Kontexttabelle
+
+// .Weiterführende Informationen
+// 
+// Siehe https://docs.req42.de/section--xxx in der online-Dokumentation (auf Englisch!).
+
+****
+
+_<Kontextdiagramm>_ oder _<Kontexttabelle>_ hier einfügen.
+
+Optional: Tabelle mit Erläuterungen der Schnittstellen ergänzen:
+
+[cols="1,3" options="header"]
+|===
+|Bedeutung |Erläuterung 
+| _<IF-1>_ | _<Erläuterung-1>_ 
+| _<IF-2>_ | _<Erläuterung-2>_ 
+|===

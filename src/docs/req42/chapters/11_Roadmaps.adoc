@@ -1,0 +1,36 @@
+:jbake-title: Roadmaps
+:jbake-type: page_toc
+:jbake-status: published
+:jbake-menu: req42
+:jbake-order: 11
+:filename: /chapters/11_Roadmaps.adoc
+ifndef::imagesdir[:imagesdir: ../../images]
+
+:toc:
+
+[[Roadmaps]]
+== Roadmaps
+
+[role="req42help"]
+****
+.Inhalt
+"Liefergegenstände auf die Zeitleiste gelegt" – wer liefert wann was?
+
+.Motivation
+Auch agile Projekte brauchen einen Plan. Je weiter ein Ziel in der Ferne liegt, desto ungenauer kann der Plan sein. Je näher, desto genauer.
+Eine explizit bekannte Roadmap ermöglicht allen Beteiligten sich untereinander abzustimmen und mitzudenken und daher bei kurzfristigen Entscheidungen zu berücksichtigen, was da mittelfristig noch alles kommen wird.
+
+Wenn Sie nur von der Hand in den Mund leben, treffen Sie unter Umständen unwissentlich kurzfristig Entscheidungen, die dem längerfristigen Produkterfolg entgegenstehen. In unseren Kursen zeigen wir Ihnen, wie grob oder fein eine Roadmap sein kann, darf oder sollte.
+
+.Notationen/Tools
+Was auch immer Sie als Planungswerkzeug im Einsatz haben oder was Ihnen erlaubt, möglichst auf einer Seite einen entsprechenden Überblick über einen längeren Zeitraum darzustellen.
+
+//.Weiterführende Informationen
+// 
+// Siehe https://docs.req42.de/section-xxx in der online-Dokumentation (auf Englisch!).
+
+****
+
+_< Hier Ihre Planung einfügen >_
+
+

@@ -1,0 +1,40 @@
+:jbake-title: Randbedingungen
+:jbake-type: page_toc
+:jbake-status: published
+:jbake-menu: req42
+:jbake-order: 7
+:filename: /chapters/07_Randbedingungen.adoc
+ifndef::imagesdir[:imagesdir: ../../images]
+
+:toc:
+
+[[section-Randbedingungen]]
+== Randbedingungen
+
+[role="req42help"]
+****
+.Inhalt
+Technologische oder organisatorische Randbedingungen, bzw. Randbedingungen für den Entwicklungsprozess, wie verpflichtende Tätigkeiten, vorgeschriebene Dokumente und deren Inhalt, einzuhaltenden Meilensteine, ...
+
+.Motivation
+Auch solche Randbedingungen sind Anforderungen. Und da sie oft für mehrere oder sogar alle funktionalen Anforderungen gelten, sind sie schwer in dem geordneten Product Backlog unterzubringen. 
+Stellen Sie einfach sicher, dass alle Beteiligten diese Randbedingungen kennen und bei Bedarf Zugriff dazu haben.
+
+.Notationen/Tools
+Einfache Listen, evtl. nach Kategorien geordnet.
+
+// .Weiterführende Informationen
+// 
+// Siehe https://docs.req42.de/section-xxx in der req42-Dokumentation (auf Englisch!).
+
+****
+
+=== 7.1 Organisatorische Randbedingungen
+*   
+*   
+* 
+  
+=== 7.2 Technische Randbedingungen
+*   
+*   
+*   

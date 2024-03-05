@@ -1,0 +1,38 @@
+:jbake-title: Domänenbegriffe
+:jbake-type: page_toc
+:jbake-status: published
+:jbake-menu: req42
+:jbake-order: 8
+:filename: /chapters/08_Domaenenbegriffe.adoc
+ifndef::imagesdir[:imagesdir: ../../images]
+
+:toc:
+
+[[section-Domaenenbegriffe]]
+== Domänenbegriffe
+
+[role="req4242help"]
+****
+.Inhalt
+Ein Glossar von fachlichen Begriffen mit Definitionen.
+
+.Motivation
+In jedem Epic, Feature oder Story kommen Begriffe aus Ihrer Domäne vor. Diese Begriffe sollten allen Beteiligten klar sein. Und deshalb ist es wünschenswert, für ein Projekt oder eine Produktentwicklung ein Glossar solcher Begriffe zu haben. 
+
+Stellen Sie sicher, dass alle Beteiligten eine gemeinsame Sprache sprechen – und im Zweifelsfall Zugriff auf vereinbarte Begriffsdefinitionen haben, statt in jedem Meeting wieder neue Wörter ins Spiel zu bringen.
+
+.Notationen/Tools
+Alphabetisch geordnete Liste von Begriffsdefinitionen
+
+// .Weiterführende Informationen
+// 
+// Siehe https://docs.req42.de/section-xxx in der online-Dokumentation (auf Englisch!).
+
+****
+
+[cols="1,3" options="header"]
+|===
+|Bedeutung      | Erläuterung 
+| _<Begriff-1>_ | _<Erläuterung-1>_ 
+| _<Begriff-2>_ | _<Erläuterung-2>_ 
+|===

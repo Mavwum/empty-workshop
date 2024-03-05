@@ -1,0 +1,18 @@
+:homepage: https://req42.de
+
+:keywords: requirements, business analysis, framework, req42
+
+:numbered!:
+
+**Über req42**
+
+[role="lead"]
+req42, das Framework zur Sammlung, Dokumentation und Kommunikation von Anforderungen im agilen Umfeld.
+
+Erstellt von Dr. Peter Hruschka, Markus Meuten und Mitwirkenden.
+
+Template Revision: 2.0 DE (asciidoc-based), MÄRZ 2023
+
+(C)
+We acknowledge that this document uses material from the req42 architecture framework, https://req42.de
+

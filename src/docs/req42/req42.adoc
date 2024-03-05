@@ -1,0 +1,84 @@
+:imagesdir: ../images
+:jbake-menu: -
+// header file for req42-framework,
+// including all help texts
+//
+// ====================================
+
+= image:arc42-logo.png[req42] Framework
+// toc-title definition MUST follow document title without blank line!
+:toc-title: Inhaltsverzeichnis
+
+//additional style for arc42 help callouts
+ifdef::backend-html5[]
+++++
+<style>
+.req42help {font-size:small; width: 14px; height: 16px; overflow: hidden; position: absolute; right: 0; padding: 2px 0 3px 2px;}
+.req42help::before {content: "?";}
+.req42help:hover {width:auto; height: auto; z-index: 100; padding: 10px;}
+.req42help:hover::before {content: "";}
+@media print {
+	.req42help {display:none;}
+}
+</style>
+++++
+endif::backend-html5[]
+
+// configure DE settings for asciidoc
+include::chapters/config.adoc[]
+
+
+include::chapters/about-req42.adoc[]
+
+// horizontal line
+***
+
+[role="req42help"]
+****
+[NOTE]
+====
+Diese Version des Frameworks enthält Hilfen und Erläuterungen.
+Sie dient der Einarbeitung in req42 sowie dem Verständnis der Konzepte.
+Für die Dokumentation eigener System verwenden Sie besser die _plain_ Version.
+====
+****
+
+
+// numbering from here on
+:numbered:
+
+<<<<
+include::chapters/01_Visionen-Ziele.adoc[]
+
+<<<<
+include::chapters/02_Stakeholder.adoc[]
+
+<<<<
+include::chapters/03_Scope-Abgrenzung.adoc[]
+
+<<<<
+include::chapters/04_Product-Backlog.adoc[]
+
+<<<<
+include::chapters/05_Modelle-zur-Unterstuetzung.adoc[]
+
+<<<<
+include::chapters/06_Qualitaetsanforderungen.adoc[]
+
+<<<<
+include::chapters/07_Randbedingungen.adoc[]
+
+<<<<
+include::chapters/08_Domaenenbegriffe.adoc[]
+
+<<<<
+include::chapters/09_Betriebsmittel-und-Personal.adoc[]
+
+<<<<
+include::chapters/10_Teamstruktur.adoc[]
+
+<<<<
+include::chapters/11_Roadmaps.adoc[]
+
+<<<<
+include::chapters/12_Risiken-und-Annahmen.adoc[]

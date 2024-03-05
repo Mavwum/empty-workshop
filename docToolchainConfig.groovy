@@ -19,6 +19,7 @@ inputFiles = [
         //[file: 'doctoolchain_demo.adoc',       formats: ['html','pdf']],
         //[file: 'arc42-template.adoc',    formats: ['html','pdf']],
 	[file: 'arc42/arc42.adoc', formats: ['html','pdf']],
+	[file: 'req42/req42.adoc', formats: ['html','pdf']],
 	/** inputFiles **/
 ]
 
@@ -32,6 +33,8 @@ inputFiles = [
 // as doctoolchain defines :imagesdir: during generation
 imageDirs = [
     'images/.',
+	'images/.',
+	'images/.',
 	'images/.',
 	/** imageDirs **/
 ]
